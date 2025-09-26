@@ -20,16 +20,6 @@ project
     │   .....
 ```
 ## ✨Key Features
-[![点击查看图片](https://vi.hust.edu.cn/imgs/jc_icon1.png)](https://vi.hust.edu.cn/index.htm)
+[hust视觉标识](https://vi.hust.edu.cn/index.htm)
 
 
-<div style="display: flex; gap: 10px;">
-    <a href="https://vi.hust.edu.cn/index.htm" style="display: inline-block; text-align: center; background-color: #f4b400; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
-        <img src="https://vi.hust.edu.cn/imgs/logo_top.png" alt="点击查看图片" style="width: 100px; height: auto; margin-right: 8px;">
-        Project
-    </a>
-    <a href="https://example.com" style="display: inline-block; text-align: center; background-color: #607d8b; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
-        <img src="https://example.com/image.jpg" alt="Example" style="width: 100px; height: auto; margin-right: 8px;">
-        Page
-    </a>
-</div>
