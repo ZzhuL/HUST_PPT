@@ -20,4 +20,4 @@ project
     │   .....
 ```
 ## ✨Key Features
-[![点击查看图片](https://vi.hust.edu.cn/imgs/logo_top.png)](https://vi.hust.edu.cn/index.htm)
+[![点击查看图片](https://vi.hust.edu.cn/imgs/banner.png)](https://vi.hust.edu.cn/index.htm)
