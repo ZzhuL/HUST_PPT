@@ -20,4 +20,4 @@ project
     │   .....
 ```
 ## ✨Key Features
-[点击这里](https://vi.hust.edu.cn/index.htm<img width="549" height="81" alt="image" src="https://github.com/user-attachments/assets/716916ac-8eb3-45fb-8fb2-fd6b5b762ad2" />)
+[![点击查看图片](https://example.com/image.jpg)](https://vi.hust.edu.cn/index.htm)
