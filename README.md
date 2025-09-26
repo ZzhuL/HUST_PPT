@@ -7,18 +7,17 @@
 ```
 project
 │   README.md
-│   file001.txt    
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───Compus_pictures    # 此文件夹下存放的是hust校园图片
+│
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───Templates          # 此文件夹下存放的是ppt模板
+│   │   模板-1.pptx
+│   │   模板-2.pptx
+│   │   .....    
+└───Thumbnails        # 此文件夹下存放的是ppt缩略图(选择合适的ppt模板前优先查看此文件)
+    │   模板-2.png
+    │   .....
 ```
+## ✨Key Features
+[点击这里](https://vi.hust.edu.cn/index.htm<img width="549" height="81" alt="image" src="https://github.com/user-attachments/assets/716916ac-8eb3-45fb-8fb2-fd6b5b762ad2" />)
