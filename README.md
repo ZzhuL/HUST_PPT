@@ -6,7 +6,7 @@
 ## 文件结构说明
 ```
 project
-│   README.md
+└───README.md
 │
 └───Compus_pictures    # 此文件夹下存放的是hust校园图片
 │
